@@ -1,4 +1,4 @@
-use std::process;
+ use std::process;
 
 fn prime(num: &i64) -> bool {
     for x in 2..num/2 {
